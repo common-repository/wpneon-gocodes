@@ -1,0 +1,54 @@
+
+Description:
+
+Based on the original GoCodes plugin, Gocodes 2 is a WordPress plugin for creating and shortening any internal or external links.
+This plugin will be useful for masking links to partner/affiliate websites.
+
+Link example: 
+You can use it for shortening long URLs as 'wpneon.com/go/link' or 'wpneon.com/goto/link'
+
+## KEY FEATURES
+
+1. Most easy link cloaking plugin.
+2. No complex setup. Just install and start using.
+3. Tracks the Number of Clicks per link.
+4. Change the '/go/' word to any word of your choice.
+
+
+## ORIGIN
+
+We are proud that original base of this plugin is a fork of GoCodes by redwall_hp (Not available for download and Supported currently).
+We worked on the plugin before before releasing it is "WPNeon GoCodes2", stripped down some code to make it a simple & lightweight. 
+
+
+## FAQ
+
+1. How do I install the plugin?
+
+#FROM YOUR WORDPRESS DASHBOARD
+Visit 'Plugins -> Add New'.
+Search for 'Gocodes 2'.
+Activate Gocodes 2 from your Plugins page.
+
+#FROM WORDPRESS.ORG
+Download Gocodes 2 plugin.
+Upload the 'gocodes2' directory to your '/wp-content/plugins/' directory, using your favorite method (ftp, sftp, scp, etc…)
+Activate GoCodes 2 from your Plugins page.
+
+#ONCE ACTIVATED
+Visit 'Settings -> Gocodes' and adjust the preferences.
+Visit 'Tools -> Gocodes' and create your first link.
+Check your link works fine and enjoy plugin usage.
+
+2. Can I change the 'go' word in my links URL?
+Yes, just visit plugin setting page and enter your own URL Trigger word.
+
+3. How to enable hit statistics?
+Visit 'Tools -> Gocodes' and check 'Counts hits' while creating your new link.
+
+4. What if I need this plugin customized?
+We can help you tuning the plugin up to your needs, or even creating a new one from scratch, per your requirements. 
+<a href="https://wpneon.com/contact/">Drop us your request</a> and we will get back with the estimate shortly.
+
+
+
